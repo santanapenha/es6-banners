@@ -6,6 +6,8 @@ body {
   overflow-x: hidden;
   margin: 0;
   font-family: "Euclid Circular A", "Poppins";
+  background-color: #5B5B5B;
+  color: #ffffff;
 }
 
 .banner {
@@ -36,13 +38,13 @@ body {
 .banner h2 {
   margin: 0 0 10px;
   font-size: 60px;
-  color: rgb(255 255 255 / 80%);
+  color: #d9d9d9;
 }
 
 .banner h3 {
   margin: 0;
   font-size: 40px;
-  color: rgb(255 255 255 / 60%);
+  color: #d9d9d9;
 }
 
 main {
